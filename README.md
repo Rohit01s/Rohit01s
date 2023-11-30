@@ -1,4 +1,4 @@
-👋 Hi there! 
+👋 Hi there! I am Rohit Sharma
 
 📊 I'm a Data enthusiast currently embarking on my Masters in Biostatistics journey at Banaras Hindu University.
 
