@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi there! 
 
-<!--
-**Rohit01s/Rohit01s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I'm a Data enthusiast currently embarking on my Masters in Biostatistics journey at Banaras Hindu University.
 
-Here are some ideas to get you started:
+🔭 Armed with a Bachelor's degree in Science with Statistics as my Hons Subject and Physics, Mathmatics and Computer Science as my minor subject from BHU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Proficient in Python
+
+👨‍💻 I wield the power of data with expertise in Machine Learning. My toolkit extends beyond coding, showcasing prowess in Advanced Excel and SQL. 
+
+📫Reach me at: rohitsharma.01bhu@gmail.com
+
+#DataScience #Python #MachineLearning #SQL #DataAnalyst #DataScience #Biostatistics ✨
